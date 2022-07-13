@@ -3,7 +3,6 @@
 
 - 🔭 Buscando uma vaga como desenvolvedor
 - 🌱 Estudando Java e Python
-- ✉️ Contate-me no email felipeguimaraes@live.com
 
 <div align="center">
   <a href="https://github.com/guimaraesfelipe">
