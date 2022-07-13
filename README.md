@@ -3,6 +3,9 @@
 
 - 🔭 Buscando uma vaga como desenvolvedor
 - 🌱 Estudando Java e Python
+- 😍 Apaixonado por games, viagens, fotografias e autoamção residencial
+- 🧑🏻‍💻 Profissional da área de tecnologia a 11 anos
+
 
 <div align="center">
   <a href="https://github.com/guimaraesfelipe">
