@@ -1,4 +1,4 @@
-## _Olá! Eu sou Felipe Guimarães, desenvolvedor e intusiasta de técnologia._ 🖖🏻
+## _Olá Mundo! Eu sou Felipe Guimarães, desenvolvedor e intusiasta de técnologia._ 🖖🏻
 
 
 - 🔭 Buscando uma vaga como desenvolvedor
