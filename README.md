@@ -3,7 +3,7 @@
 
 - 🔭 Buscando uma vaga como desenvolvedor
 - 🌱 Estudando Java e Python
-- 😍 Apaixonado por games, viagens, fotografias e autoamção residencial
+- 😍 Apaixonado por games, viagens, fotografias e automação residencial
 - 🧑🏻‍💻 Profissional da área de tecnologia a 11 anos
 
 <div align="center">
