@@ -9,18 +9,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Java" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Felipe-Spring" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img align="center" alt="Felipe-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Felipe-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Felipe-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Felipe-JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Felipe-Go" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
-  <img align="center" alt="Felipe-Swift" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-  <img align="center" alt="Felipe-Flutter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-  <img align="center" alt="Felipe-Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Felipe-Docker" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-  <img align="center" alt="Felipe-Azure" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+  <img src="https://skillicons.dev/icons?i=java,maven,spring,python,go,html,css,js,swift,flutter,git,mysql,mongodb,docker,azure,aws,heroku,raspberrypi,vscode,linux">
 </div>
   
  ## Sobre mim ✨
