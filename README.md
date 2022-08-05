@@ -29,8 +29,6 @@
 - 😍 Apaixonado por games, viagens, fotografias e automação residencial
 - 🧑🏻‍💻 Profissional da área de tecnologia a 11 anos
 
-<p align="justify">Profissional de tecnologia, com amplo conhecimento em suporte e infra-estrutura, apaixonado pelo desenvolvimento de software, buscando aprendizado contínuo nas principais tecnologias do mercado e trilhando uma jornada para se tornar um desenvolvedor profissional.</p>
-
 ##
   
 <div align="right">
