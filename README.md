@@ -9,7 +9,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,go,html,css,js,swift,git,mysql,mongodb,docker,azure,aws,vscode">
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,spring,python,go,swift,git,mysql,mongodb,docker">
 </div>
   
  ## Sobre mim ✨
