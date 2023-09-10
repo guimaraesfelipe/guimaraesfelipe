@@ -15,10 +15,9 @@
 <div id="about">
   <h3> Sobre mim ✨ </h3>
   <ul>
-    <li> 🔭 Buscando uma vaga como desenvolvedor </li>
-    <li> 🌱 Estudando linguagem Java </li>
-    <li> 😍 Apaixonado por games, viagens, fotografias e automação residencial </li>
-    <li> 🧑🏻‍💻 Profissional da área de tecnologia a 11 anos </li>
+    <li> 🧑🏻‍💻 Javeiro & Pythonico </li>
+    <li> 🔭 Buscando me desenvolver dia após dia </li>
+    <li> 😍 Entusiasta em automação residencial e IoT </li>
   </ul>
 </div>
     
