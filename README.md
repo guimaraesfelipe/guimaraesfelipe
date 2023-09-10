@@ -9,7 +9,7 @@
 </div> <br>
 
 <div id="stacks" align="center" style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=java,spring,idea,python,django,mongo,postman,git,jenkins,kafka,raspberrypi">
+  <img src="https://skillicons.dev/icons?i=java,spring,idea,python,django,mongo,postman,git,jenkins,kafka,docker,raspberrypi">
 </div>
 
 <div id="about">
