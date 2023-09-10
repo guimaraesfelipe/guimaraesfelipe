@@ -24,11 +24,18 @@
 ##
   
 <div id="contact" align="right">
-  <a id="link-whatsapp" href = "https://wa.me/5511987189474?text=Ol%C3%A1%20Felipe%20tudo%20bem?%20vi%20seu%20perfil%20no%20GitHub
-"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a id="link-telegram" href = "https://t.me/guimaraesfelipe"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a id="link-mail" href = "mailto:felipeguimaraes@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a id="link-linkedin" href="https://www.linkedin.com/in/luisfelipeguimaraespinto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
+  <a id="link-whatsapp" href = "https://wa.me/5511987189474?text=Ol%C3%A1%20Felipe%20tudo%20bem?%20vi%20seu%20perfil%20no%20GitHub">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  <a id="link-telegram" href = "https://t.me/guimaraesfelipe">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+  </a>
+  <a id="link-mail" href = "mailto:felipeguimaraes@live.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a id="link-linkedin" href="https://www.linkedin.com/in/luisfelipeguimaraespinto/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
 
-![Snake animation](https://github.com/guimaraesfelipe/guimaraesfelipe/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/guimaraesfelipe/guimaraesfelipe/blob/output/github-contribution-grid-snake.svg)-->
