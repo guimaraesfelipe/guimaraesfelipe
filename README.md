@@ -65,22 +65,4 @@ Fora do trabalho, sou entusiasta de **soluções self-hosted e impressão 3D**. 
 - [**Desafio-Backend-PicPay**](https://github.com/guimaraesfelipe/Desafio-Backend-PicPay) — solução do desafio técnico de backend do PicPay (Java · Spring Boot)
 - [**disparador-email**](https://github.com/guimaraesfelipe/disparador-email) — API para disparo de e-mails via SMTP (Java)
 
----
 
-## 📊 GitHub
-
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=guimaraesfelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraesfelipe&layout=compact&langs_count=6&theme=dracula&hide_border=true&exclude_repo=Barbearia-Alura,Alura-7DaysOfCode-Java"/>
-</div>
-
----
-
-<div align="center">
-
-💬 **Vamos conversar?**
-Veja meu portfólio em **[felipeguimaraes.dev](https://felipeguimaraes.dev/)** ou me chame no [LinkedIn](https://www.linkedin.com/in/luisfelipeguimaraespinto/) e por [e-mail](mailto:contato@felipeguimaraes.dev).
-
-<sub>"Falar é fácil, me mostre o código." — Linus Torvalds</sub>
-
-</div>
