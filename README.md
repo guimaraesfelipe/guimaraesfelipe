@@ -59,10 +59,3 @@ Fora do trabalho, sou entusiasta de **soluções self-hosted e impressão 3D**. 
 
 <sub>Esses projetos são privados. Detalhes e imagens estão no meu portfólio: <a href="https://felipeguimaraes.dev/">felipeguimaraes.dev</a>.</sub>
 
-### Repositórios públicos
-
-- [**parking-control-api**](https://github.com/guimaraesfelipe/parking-control-api) — API REST para controle de vagas de estacionamento (Java · Spring Boot)
-- [**Desafio-Backend-PicPay**](https://github.com/guimaraesfelipe/Desafio-Backend-PicPay) — solução do desafio técnico de backend do PicPay (Java · Spring Boot)
-- [**disparador-email**](https://github.com/guimaraesfelipe/disparador-email) — API para disparo de e-mails via SMTP (Java)
-
-
